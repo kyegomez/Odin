@@ -9,7 +9,7 @@ Super Fast and super cheap object detection at massive scale in less than 10 lin
 
 
 # Install
-`pip install vodin``
+`pip install vodin`
 
 # Usage
 
