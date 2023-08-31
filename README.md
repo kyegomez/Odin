@@ -8,18 +8,12 @@ Super Fast and super cheap object detection at massive scale in less than 10 lin
 * Agorians
 
 
-
 # Install
+`pip install vodin``
 
 # Usage
 
 # Architecture
 
-# Todo
-
-
 # License
 MIT
-
-# Citations
-
