@@ -77,8 +77,8 @@ odin.model.set_device("cuda")
 odin.run()
 ```
 
-
 # Architecture
+* [Odin utilizes YoloV7, weights can be downloaded here](https://drive.google.com/file/d/1yEYFq1jCIpklofMMhuqQKwyTfvj1hLQ1/view)
 
 # License
 MIT
